@@ -1,0 +1,181 @@
+{
+  "common": {
+    "brand": "Nayana Villa",
+    "tagline": "Where Nature Meets Serenity",
+    "fictional_demo": "Demonstration Portfolio Website — Fictional luxury hospitality concept inspired by coastal serenity.",
+    "all_rights_reserved": "All rights reserved.",
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "accommodation": "Accommodation",
+      "facilities": "Facilities",
+      "gallery": "Gallery",
+      "location": "Location",
+      "contact": "Contact",
+      "book_now": "Book Your Stay"
+    },
+    "actions": {
+      "explore": "Explore the Villa",
+      "view_details": "View Details",
+      "inquire_now": "Inquire via WhatsApp",
+      "learn_more": "Learn More",
+      "switch_language": "Ganti Bahasa"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Ubud, Bali — Fictional Sanctuary",
+      "title": "Where Nature Meets Serenity",
+      "description": "A secluded coastal haven framed by whispering palm trees and ocean tides. Experience intimate luxury designed for slow living, private retreats, and peaceful reflection.",
+      "cta_primary": "Book Your Stay",
+      "cta_secondary": "Explore Suites"
+    },
+    "quick_inquiry": {
+      "title": "Check Availability & Inquire",
+      "room_type": "Select Suite",
+      "check_in": "Check-in",
+      "check_out": "Check-out",
+      "guests": "Guests",
+      "action": "Check Rates"
+    },
+    "intro": {
+      "badge": "The Concept",
+      "heading": "An Editorial Sanctuary Built with Natural Craftsmanship",
+      "description": "Nayana Villa embodies timeless seaside design, using natural stone, organic linens, and light timbers to dissolve the boundary between modern architecture and coastal serenity."
+    },
+    "featured": {
+      "badge": "Private Accommodations",
+      "heading": "Suites Crafted for Unhurried Solitude",
+      "description": "Each suite is an ode to space, natural daylight, and understated luxury."
+    },
+    "philosophy": {
+      "badge": "Our Philosophy",
+      "heading": "Quiet Luxury in Harmony with the Shoreline",
+      "description": "We believe the purest luxury is peace. Every detail—from soft morning sea breezes to evening twilight poolside—is curated to restore stillness."
+    },
+    "gallery_preview": {
+      "badge": "Visual Journey",
+      "heading": "Moments of Shoreline Calm",
+      "cta": "View Full Gallery"
+    },
+    "location_preview": {
+      "badge": "The Setting",
+      "heading": "Tucked Away, Connected to Nature",
+      "description": "Located in tranquil Ubud with coastal inspiration, Nayana Villa offers secluded privacy while remaining a gateway to natural wonders.",
+      "cta": "Explore Location"
+    },
+    "cta_banner": {
+      "heading": "Ready for an Unforgettable Sanctuary?",
+      "description": "Inquire directly through our concierge team via WhatsApp for tailored bookings, customized itineraries, and intimate villa stays.",
+      "button": "Plan Your Stay"
+    }
+  },
+  "about": {
+    "badge": "About Nayana Villa",
+    "title": "A Sanctuary Born from Coastal Stillness",
+    "subtitle": "Discover our philosophy of slow living, mindful architecture, and barefoot luxury in Ubud, Bali.",
+    "story_heading": "The Nayana Story",
+    "story_p1": "Nayana Villa was envisioned as an antidote to modern frenzy—a peaceful destination where nature, clean stone architecture, and soft daylight come together in effortless harmony.",
+    "story_p2": "Rooted in coastal aesthetics with Italian interior sensibilities, every suite balances private swimming waters with sunlit outdoor verandas, creating an intimate sanctuary for couples, solo travelers, and restorative family retreats.",
+    "values": {
+      "v1_title": "Natural Materials",
+      "v1_desc": "Locally quarried stone, sustainable timber, and breathable linen textiles.",
+      "v2_title": "Slow Living",
+      "v2_desc": "Spaces designed without rush, prioritizing natural breezes and privacy.",
+      "v3_title": "Attentive Hospitality",
+      "v3_desc": "Discreet, personalized care accessible instantly via your personal concierge."
+    }
+  },
+  "accommodation_page": {
+    "badge": "Our Accommodations",
+    "title": "Private Sanctuaries & Suites",
+    "subtitle": "Explore our collection of private pool villas and elevated sea view retreats.",
+    "filter_all": "All Suites",
+    "specs_guests": "Guests",
+    "specs_beds": "Bedrooms",
+    "specs_baths": "Bathrooms",
+    "from": "Starting from",
+    "view_suite": "View Suite",
+    "inquire_btn": "Inquire via WhatsApp"
+  },
+  "accommodation_detail": {
+    "back": "Back to Accommodations",
+    "specs_title": "Key Specifications",
+    "amenities_title": "Suite Amenities & Features",
+    "inquiry_card": {
+      "title": "Reserve This Suite",
+      "subtitle": "Direct booking inquiry handled personally by our hosting concierge.",
+      "indicative_notice": "Rates shown are illustrative demo rates for portfolio evaluation.",
+      "cta": "Inquire on WhatsApp"
+    }
+  },
+  "facilities_page": {
+    "badge": "Facilities & Experiences",
+    "title": "Every Comfort for Restorative Living",
+    "subtitle": "From private poolside verandas to seaside walking trails, experience spaces designed for unhurried ease."
+  },
+  "gallery_page": {
+    "badge": "Photo Gallery",
+    "title": "A Visual Portrait of Nayana Villa",
+    "subtitle": "Immerse yourself in our coastal architecture, sunlit courtyards, and tranquil shoreline moments.",
+    "categories": {
+      "all": "All Moments",
+      "villas": "Villas & Suites",
+      "pool": "Pool & Courtyard",
+      "coastal": "Sea & Shoreline",
+      "dining": "Culinary Rituals"
+    },
+    "lightbox": {
+      "close": "Close Lightbox (Esc)",
+      "prev": "Previous Image",
+      "next": "Next Image"
+    }
+  },
+  "location_page": {
+    "badge": "Location & Surroundings",
+    "title": "Between Coastal Tides and Ubud Flora",
+    "subtitle": "Nestled in a serene sanctuary with gentle sea breezes and scenic trails.",
+    "map_title": "Illustrative Location Map",
+    "map_notice": "Demonstration location map. Exact coordinates and address are simulated for portfolio concept.",
+    "nearby_title": "Nearby Coastal Highlights",
+    "transport_title": "Arrival & Transfers"
+  },
+  "contact_page": {
+    "badge": "Connect With Us",
+    "title": "We Look Forward to Welcoming You",
+    "subtitle": "Reach out directly with questions, custom dates, or portfolio inquiries.",
+    "channels_title": "Concierge Channels",
+    "whatsapp_desc": "Direct WhatsApp inquiry for fast, personal coordination.",
+    "email_desc": "Send a formal inquiry to our reservations team.",
+    "address_desc": "Fictional property demonstration in Ubud, Bali, Indonesia."
+  },
+  "booking": {
+    "title": "Booking Inquiry",
+    "subtitle": "Prepare your personalized inquiry message. We will review and connect with you directly via WhatsApp.",
+    "disclaimer": "This is a demonstration portfolio. Inquiries are prepared as formatted WhatsApp messages for manual sending, not instant confirmed bookings.",
+    "fields": {
+      "check_in": "Check-in Date",
+      "check_out": "Check-out Date",
+      "guests": "Number of Guests",
+      "accommodation": "Preferred Suite / Villa",
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "WhatsApp Number (Optional)",
+      "message": "Special Requests or Inquiries (Optional)",
+      "privacy_label": "I acknowledge that this inquiry will be sent via WhatsApp and understand this is illustrative demonstration content."
+    },
+    "actions": {
+      "submit": "Prepare WhatsApp Inquiry",
+      "send_whatsapp": "Open WhatsApp & Send",
+      "edit": "Edit Inquiry"
+    },
+    "summary": {
+      "title": "Inquiry Summary",
+      "notice": "Please review your details before opening WhatsApp. You will need to press 'Send' inside the WhatsApp application."
+    }
+  },
+  "metadata": {
+    "site_title": "Nayana Villa — Where Nature Meets Serenity",
+    "site_description": "A fictional luxury tropical villa website demonstration, presenting coastal calm, serene suites, and seamless inquiry booking."
+  }
+}

@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg-primary: #FFFFFF;
+  --color-bg-surface: #FAFAFA;
+  --color-bg-secondary: #EEEEEE;
+  
+  --color-shoreline-structure: #A2B8B8;
+  --color-shoreline-hover: #819F9F;
+  --color-shoreline-light: #E8EFEF;
+
+  --color-ocean-accent: #006BB3;
+  --color-ocean-interactive: #006DFF;
+  --color-ocean-deep: #005087;
+
+  --color-text-primary: #212121;
+  --color-text-secondary: #4B4B4B;
+  --color-text-muted: #757575;
+  --color-text-on-dark: #FFFFFF;
+  --color-text-on-shoreline: #131E1E;
+
+  --color-border-subtle: #EEEEEE;
+  --color-border-medium: #E0E0E0;
+
+  --header-height: 80px;
+
+  --font-playfair: 'Playfair Display', Georgia, serif;
+  --font-cormorant: 'Cormorant Garamond', Garamond, serif;
+  --font-dm-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    color: var(--color-text-primary);
+    background-color: var(--color-bg-primary);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  body {
+    font-family: var(--font-dm-sans);
+    font-size: 16px;
+    line-height: 1.55;
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    overflow-x: hidden;
+  }
+
+  /* Headings with optical typography */
+  h1, h2, h3, h4, h5, h6 {
+    text-wrap: balance;
+    letter-spacing: -0.015em;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  /* Input zoom prevention on iOS mobile */
+  input, select, textarea {
+    font-size: 16px;
+  }
+
+  @media (min-width: 640px) {
+    input, select, textarea {
+      font-size: 0.9375rem; /* 15px */
+    }
+  }
+
+  /* Accessible focus indicators */
+  :focus-visible {
+    outline: 2px solid var(--color-ocean-interactive);
+    outline-offset: 2px;
+  }
+}
+
+@layer utilities {
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .text-pretty {
+    text-wrap: pretty;
+  }
+
+  .hero-mask {
+    background: linear-gradient(
+      180deg,
+      rgba(17, 17, 17, 0.45) 0%,
+      rgba(17, 17, 17, 0.25) 50%,
+      rgba(17, 17, 17, 0.75) 100%
+    );
+  }
+}

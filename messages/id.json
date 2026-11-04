@@ -1,0 +1,181 @@
+{
+  "common": {
+    "brand": "Nayana Villa",
+    "tagline": "Temukan Ketenangan di Tengah Alam",
+    "fictional_demo": "Situs Web Portofolio Demonstrasi — Konsep vila mewah fiktif yang terinspirasi oleh ketenangan pesisir.",
+    "all_rights_reserved": "Hak cipta dilindungi undang-undang.",
+    "nav": {
+      "home": "Beranda",
+      "about": "Tentang",
+      "accommodation": "Akomodasi",
+      "facilities": "Fasilitas",
+      "gallery": "Galeri",
+      "location": "Lokasi",
+      "contact": "Kontak",
+      "book_now": "Ajukan Reservasi"
+    },
+    "actions": {
+      "explore": "Jelajahi Vila",
+      "view_details": "Lihat Detail",
+      "inquire_now": "Tanya via WhatsApp",
+      "learn_more": "Pelajari Lebih Lanjut",
+      "switch_language": "Switch to English"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Ubud, Bali — Suaka Fiktif",
+      "title": "Temukan Ketenangan di Tengah Alam",
+      "description": "Suaka pesisir tersembunyi yang dibingkai oleh desau pohon kelapa dan pasang laut. Nikmati kemewahan intim yang dirancang untuk hidup tenang, istirahat pribadi, dan kedamaian.",
+      "cta_primary": "Ajukan Reservasi",
+      "cta_secondary": "Lihat Suite"
+    },
+    "quick_inquiry": {
+      "title": "Cek Ketersediaan & Reservasi",
+      "room_type": "Pilih Suite",
+      "check_in": "Check-in",
+      "check_out": "Check-out",
+      "guests": "Jumlah Tamu",
+      "action": "Cek Tarif"
+    },
+    "intro": {
+      "badge": "Konsep Kami",
+      "heading": "Suaka Editorial yang Dibangun dengan Keahlian Alami",
+      "description": "Nayana Villa mewujudkan desain pesisir abadi, memadukan batu alam, linen organik, dan kayu terang untuk menyatukan arsitektur modern dengan ketenangan pantai."
+    },
+    "featured": {
+      "badge": "Akomodasi Pribadi",
+      "heading": "Suite yang Dirancang untuk Ketenangan Hakiki",
+      "description": "Setiap suite adalah perayaan ruang lapang, pencahayaan alami, dan kemewahan bersahaja."
+    },
+    "philosophy": {
+      "badge": "Filosofi Kami",
+      "heading": "Kemewahan Teduh Selaras dengan Garis Pantai",
+      "description": "Kami meyakini bahwa kemewahan paling murni adalah kedamaian. Setiap detail—dari semilir angin laut pagi hingga senja di tepi kolam renang—dikurasi untuk memulihkan jiwa."
+    },
+    "gallery_preview": {
+      "badge": "Perjalanan Visual",
+      "heading": "Momen Ketenangan Pesisir",
+      "cta": "Lihat Seluruh Galeri"
+    },
+    "location_preview": {
+      "badge": "Lingkungan",
+      "heading": "Tersembunyi, Menyatu dengan Alam",
+      "description": "Terletak di kawasan damai Ubud dengan sentuhan pesisir, Nayana Villa menawarkan privasi eksklusif sekaligus gerbang menuju pesona alam Bali.",
+      "cta": "Jelajahi Lokasi"
+    },
+    "cta_banner": {
+      "heading": "Siap Merasakan Pengalaman Tak Terlupakan?",
+      "description": "Hubungi tim concierge kami langsung melalui WhatsApp untuk permintaan khusus, paket inap personal, dan reservasi vila.",
+      "button": "Rencanakan Menginap"
+    }
+  },
+  "about": {
+    "badge": "Tentang Nayana Villa",
+    "title": "Suaka yang Terlahir dari Ketenangan Pesisir",
+    "subtitle": "Temukan filosofi hidup tenang, arsitektur penuh makna, dan kemewahan alami di Ubud, Bali.",
+    "story_heading": "Kisah Nayana",
+    "story_p1": "Nayana Villa hadir sebagai penawar dari hiruk-pikuk modernitas—destinasi tenang di mana alam, arsitektur batu yang bersih, dan cahaya alami berpadu harmonis.",
+    "story_p2": "Terinspirasi estetika pesisir berpadu sentuhan interior Italia, setiap suite menghadirkan kolam renang pribadi dan beranda terbuka bermandikan surya, menciptakan suaka intim untuk liburan berpasangan maupun peristirahatan keluarga.",
+    "values": {
+      "v1_title": "Material Alami",
+      "v1_desc": "Batu alam pilihan, kayu ramah lingkungan, dan tekstil linen organik.",
+      "v2_title": "Ritme Perlahan",
+      "v2_desc": "Ruang yang dirancang tanpa tergesa, mengutamakan angin sepoi-sepoi dan privasi.",
+      "v3_title": "Pelayanan Tulus",
+      "v3_desc": "Keramahan personal yang penuh perhatian, terhubung langsung melalui concierge pribadi."
+    }
+  },
+  "accommodation_page": {
+    "badge": "Pilihan Akomodasi",
+    "title": "Suaka Pribadi & Suite Eksklusif",
+    "subtitle": "Jelajahi koleksi vila kolam renang privat dan suite pemandangan laut kami.",
+    "filter_all": "Semua Suite",
+    "specs_guests": "Tamu",
+    "specs_beds": "Kamar Tidur",
+    "specs_baths": "Kamar Mandi",
+    "from": "Mulai dari",
+    "view_suite": "Lihat Suite",
+    "inquire_btn": "Tanya via WhatsApp"
+  },
+  "accommodation_detail": {
+    "back": "Kembali ke Akomodasi",
+    "specs_title": "Spesifikasi Utama",
+    "amenities_title": "Fasilitas & Fitur Suite",
+    "inquiry_card": {
+      "title": "Ajukan Reservasi Suite Ini",
+      "subtitle": "Permintaan reservasi langsung ditangani oleh concierge tuan rumah kami.",
+      "indicative_notice": "Tarif yang tertera adalah ilustrasi demo untuk keperluan evaluasi portofolio.",
+      "cta": "Tanya via WhatsApp"
+    }
+  },
+  "facilities_page": {
+    "badge": "Fasilitas & Pengalaman",
+    "title": "Kenyamanan Sempurna untuk Jiwa yang Tenang",
+    "subtitle": "Dari beranda santai kolam renang privat hingga jalur pantai pesisir, nikmati ruang yang dirancang untuk kenyamanan tanpa beban."
+  },
+  "gallery_page": {
+    "badge": "Galeri Foto",
+    "title": "Potret Visual Nayana Villa",
+    "subtitle": "Nikmati keindahan arsitektur pesisir, halaman bermandikan surya, dan ketenangan tepi pantai kami.",
+    "categories": {
+      "all": "Semua Momen",
+      "villas": "Vila & Suite",
+      "pool": "Kolam & Halaman",
+      "coastal": "Laut & Pantai",
+      "dining": "Ritual Kuliner"
+    },
+    "lightbox": {
+      "close": "Tutup Galeri (Esc)",
+      "prev": "Foto Sebelumnya",
+      "next": "Foto Selanjutnya"
+    }
+  },
+  "location_page": {
+    "badge": "Lokasi & Lingkungan",
+    "title": "Di Antara Semilir Pesisir dan Alam Ubud",
+    "subtitle": "Terletak di suaka damai dengan semilir angin laut dan panorama alam menawan.",
+    "map_title": "Peta Lokasi Ilustratif",
+    "map_notice": "Peta lokasi demonstrasi. Koordinat dan alamat spesifik disimulasikan untuk konsep portofolio.",
+    "nearby_title": "Daya Tarik Pesisir Sekitar",
+    "transport_title": "Kedatangan & Transportasi"
+  },
+  "contact_page": {
+    "badge": "Hubungi Kami",
+    "title": "Kami Senang Menyambut Anda",
+    "subtitle": "Hubungi kami langsung untuk pertanyaan tanggal khusus, konsultasi, atau evaluasi portofolio.",
+    "channels_title": "Saluran Concierge",
+    "whatsapp_desc": "Pesan WhatsApp langsung untuk koordinasi cepat dan personal.",
+    "email_desc": "Kirimkan pertanyaan resmi ke tim reservasi kami.",
+    "address_desc": "Demonstrasi properti fiktif di Ubud, Bali, Indonesia."
+  },
+  "booking": {
+    "title": "Permintaan Reservasi",
+    "subtitle": "Siapkan detail permintaan Anda. Tim kami akan segera merespons Anda langsung melalui WhatsApp.",
+    "disclaimer": "Ini adalah portofolio demonstrasi. Formulir ini menyiapkan pesan WhatsApp untuk dikirim secara manual, bukan konfirmasi pemesanan instan.",
+    "fields": {
+      "check_in": "Tanggal Check-in",
+      "check_out": "Tanggal Check-out",
+      "guests": "Jumlah Tamu",
+      "accommodation": "Pilihan Suite / Vila",
+      "name": "Nama Lengkap",
+      "email": "Alamat Email",
+      "phone": "Nomor WhatsApp (Opsional)",
+      "message": "Pesan atau Catatan Khusus (Opsional)",
+      "privacy_label": "Saya memahami bahwa permintaan ini dikirim via WhatsApp dan mengonfirmasi ini adalah konten demonstrasi."
+    },
+    "actions": {
+      "submit": "Siapkan Pesan WhatsApp",
+      "send_whatsapp": "Buka WhatsApp & Kirim",
+      "edit": "Ubah Rincian"
+    },
+    "summary": {
+      "title": "Rincian Permintaan",
+      "notice": "Mohon periksa data Anda sebelum membuka WhatsApp. Anda perlu menekan tombol 'Kirim' di dalam aplikasi WhatsApp."
+    }
+  },
+  "metadata": {
+    "site_title": "Nayana Villa — Temukan Ketenangan di Tengah Alam",
+    "site_description": "Situs demonstrasi vila mewah tropis, menghadirkan ketenangan pesisir, suite mewah bersahaja, dan kemudahan reservasi WhatsApp."
+  }
+}
