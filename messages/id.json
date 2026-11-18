@@ -2,7 +2,7 @@
   "common": {
     "brand": "Nayana Villa",
     "tagline": "Temukan Ketenangan di Tengah Alam",
-    "fictional_demo": "Situs Web Portofolio Demonstrasi — Konsep vila mewah fiktif yang terinspirasi oleh ketenangan pesisir.",
+    "fictional_demo": "Situs Web Portofolio Demonstrasi --- Konsep vila mewah fiktif yang terinspirasi oleh ketenangan pesisir.",
     "all_rights_reserved": "Hak cipta dilindungi undang-undang.",
     "nav": {
       "home": "Beranda",
@@ -24,7 +24,7 @@
   },
   "home": {
     "hero": {
-      "eyebrow": "Ubud, Bali — Suaka Fiktif",
+      "eyebrow": "Ubud, Bali --- Suaka Fiktif",
       "title": "Temukan Ketenangan di Tengah Alam",
       "description": "Suaka pesisir tersembunyi yang dibingkai oleh desau pohon kelapa dan pasang laut. Nikmati kemewahan intim yang dirancang untuk hidup tenang, istirahat pribadi, dan kedamaian.",
       "cta_primary": "Ajukan Reservasi",
@@ -51,7 +51,7 @@
     "philosophy": {
       "badge": "Filosofi Kami",
       "heading": "Kemewahan Teduh Selaras dengan Garis Pantai",
-      "description": "Kami meyakini bahwa kemewahan paling murni adalah kedamaian. Setiap detail—dari semilir angin laut pagi hingga senja di tepi kolam renang—dikurasi untuk memulihkan jiwa."
+      "description": "Kami meyakini bahwa kemewahan paling murni adalah kedamaian. Setiap detail dari semilir angin laut pagi hingga senja di tepi kolam renang dikurasi untuk memulihkan jiwa."
     },
     "gallery_preview": {
       "badge": "Perjalanan Visual",
@@ -75,7 +75,7 @@
     "title": "Suaka yang Terlahir dari Ketenangan Pesisir",
     "subtitle": "Temukan filosofi hidup tenang, arsitektur penuh makna, dan kemewahan alami di Ubud, Bali.",
     "story_heading": "Kisah Nayana",
-    "story_p1": "Nayana Villa hadir sebagai penawar dari hiruk-pikuk modernitas—destinasi tenang di mana alam, arsitektur batu yang bersih, dan cahaya alami berpadu harmonis.",
+    "story_p1": "Nayana Villa hadir sebagai penawar dari hiruk pikuk modernitas destinasi tenang di mana alam, arsitektur batu yang bersih, dan cahaya alami berpadu harmonis.",
     "story_p2": "Terinspirasi estetika pesisir berpadu sentuhan interior Italia, setiap suite menghadirkan kolam renang pribadi dan beranda terbuka bermandikan surya, menciptakan suaka intim untuk liburan berpasangan maupun peristirahatan keluarga.",
     "values": {
       "v1_title": "Material Alami",

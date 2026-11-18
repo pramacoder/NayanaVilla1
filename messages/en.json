@@ -2,7 +2,7 @@
   "common": {
     "brand": "Nayana Villa",
     "tagline": "Where Nature Meets Serenity",
-    "fictional_demo": "Demonstration Portfolio Website — Fictional luxury hospitality concept inspired by coastal serenity.",
+    "fictional_demo": "Demonstration Portfolio Website | Fictional luxury hospitality concept inspired by coastal serenity.",
     "all_rights_reserved": "All rights reserved.",
     "nav": {
       "home": "Home",
@@ -24,7 +24,7 @@
   },
   "home": {
     "hero": {
-      "eyebrow": "Ubud, Bali — Fictional Sanctuary",
+      "eyebrow": "Ubud, Bali | Fictional Sanctuary",
       "title": "Where Nature Meets Serenity",
       "description": "A secluded coastal haven framed by whispering palm trees and ocean tides. Experience intimate luxury designed for slow living, private retreats, and peaceful reflection.",
       "cta_primary": "Book Your Stay",
@@ -51,7 +51,7 @@
     "philosophy": {
       "badge": "Our Philosophy",
       "heading": "Quiet Luxury in Harmony with the Shoreline",
-      "description": "We believe the purest luxury is peace. Every detail—from soft morning sea breezes to evening twilight poolside—is curated to restore stillness."
+      "description": "We believe the purest luxury is peace. Every detail from soft morning sea breezes to evening twilight poolside is curated to restore stillness."
     },
     "gallery_preview": {
       "badge": "Visual Journey",
@@ -75,7 +75,7 @@
     "title": "A Sanctuary Born from Coastal Stillness",
     "subtitle": "Discover our philosophy of slow living, mindful architecture, and barefoot luxury in Ubud, Bali.",
     "story_heading": "The Nayana Story",
-    "story_p1": "Nayana Villa was envisioned as an antidote to modern frenzy—a peaceful destination where nature, clean stone architecture, and soft daylight come together in effortless harmony.",
+    "story_p1": "Nayana Villa was envisioned as an antidote to modern frenzy a peaceful destination where nature, clean stone architecture, and soft daylight come together in effortless harmony.",
     "story_p2": "Rooted in coastal aesthetics with Italian interior sensibilities, every suite balances private swimming waters with sunlit outdoor verandas, creating an intimate sanctuary for couples, solo travelers, and restorative family retreats.",
     "values": {
       "v1_title": "Natural Materials",
@@ -175,7 +175,7 @@
     }
   },
   "metadata": {
-    "site_title": "Nayana Villa — Where Nature Meets Serenity",
+    "site_title": "Nayana Villa Where Nature Meets Serenity",
     "site_description": "A fictional luxury tropical villa website demonstration, presenting coastal calm, serene suites, and seamless inquiry booking."
   }
 }
