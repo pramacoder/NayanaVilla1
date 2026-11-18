@@ -14,7 +14,7 @@ export function AccommodationPreview() {
     <section id="explore" className="py-20 lg:py-28 bg-shoreline-50/60">
       <Container>
         {/* Section Header */}
-        <div className="max-w-2xl mx-auto text-center space-y-4 mb-14">
+        <div className="max-w-2xl mx-auto text-center space-y-4 mb-14" data-aos="fade-up">
           <Badge variant="shoreline">{t("badge")}</Badge>
           <h2 className="text-3xl sm:text-5xl font-editorial font-normal text-neutral-900 leading-heading tracking-tight text-balance">
             {t("heading")}
@@ -26,10 +26,13 @@ export function AccommodationPreview() {
 
         {/* Accommodation Cards Grid (Inspired by Villa Cards reference) */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {accommodations.map((item) => (
+          {accommodations.map((item, index) => (
             <article
               key={item.slug}
-              className="group bg-white rounded-3xl overflow-hidden border border-neutral-200/80 shadow-xs hover:shadow-xl transition-all duration-300 flex flex-col justify-between"
+              data-aos="fade-up"
+              data-aos-duration="700"
+              data-aos-delay={index * 100}
+              className="group bg-white rounded-3xl overflow-hidden border border-neutral-200/80 shadow-xs hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 flex flex-col justify-between"
             >
               <div>
                 {/* Card Image */}

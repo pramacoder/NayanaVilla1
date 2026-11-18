@@ -39,7 +39,7 @@ export function GalleryPreview() {
   return (
     <section className="py-20 lg:py-28 bg-shoreline-50/50">
       <Container>
-        <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
+        <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12" data-aos="fade-up">
           <div className="space-y-4 max-w-xl">
             <Badge variant="shoreline">{t("badge")}</Badge>
             <h2 className="text-3xl sm:text-5xl font-editorial font-normal text-neutral-900 leading-heading tracking-tight">
@@ -61,6 +61,9 @@ export function GalleryPreview() {
           {galleryItems.map((item, index) => (
             <div
               key={index}
+              data-aos="fade-up"
+              data-aos-duration="700"
+              data-aos-delay={index * 100}
               className={`relative rounded-3xl overflow-hidden shadow-xs hover:shadow-lg transition-all duration-300 bg-neutral-100 ${item.className}`}
             >
               <Image

@@ -41,7 +41,9 @@ export default function AccommodationPage({ params: { locale } }: Props) {
               return (
                 <article
                   key={item.slug}
-                  className="bg-white rounded-3xl border border-neutral-200/80 overflow-hidden shadow-xs hover:shadow-xl transition-all duration-300 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center p-6 sm:p-8"
+                  data-aos="fade-up"
+                  data-aos-duration="700"
+                  className="bg-white rounded-3xl border border-neutral-200/80 overflow-hidden shadow-xs hover:shadow-xl hover:-translate-y-1 transition-all duration-300 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center p-6 sm:p-8"
                 >
                   {/* Photo Column */}
                   <div

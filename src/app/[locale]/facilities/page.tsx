@@ -80,7 +80,10 @@ export default function FacilitiesPage({ params: { locale } }: Props) {
                     return (
                       <div
                         key={idx}
-                        className="bg-white rounded-3xl border border-neutral-200/70 p-6 sm:p-7 shadow-xs hover:shadow-md transition-shadow duration-200 space-y-3"
+                        data-aos="fade-up"
+                        data-aos-duration="700"
+                        data-aos-delay={(idx % 3) * 100}
+                        className="bg-white rounded-3xl border border-neutral-200/70 p-6 sm:p-7 shadow-xs hover:shadow-md hover:-translate-y-1 transition-all duration-300 space-y-3"
                       >
                         <div className="w-10 h-10 rounded-2xl bg-shoreline-100 text-shoreline-800 flex items-center justify-center">
                           <IconComponent className="w-5 h-5" />

@@ -38,7 +38,7 @@ export function ExperiencesSection() {
   return (
     <section className="py-20 lg:py-28 bg-white">
       <Container>
-        <div className="max-w-2xl mx-auto text-center space-y-4 mb-16">
+        <div className="max-w-2xl mx-auto text-center space-y-4 mb-16" data-aos="fade-up">
           <Badge variant="shoreline">Boutique Experiences</Badge>
           <h2 className="text-3xl sm:text-5xl font-editorial font-normal text-neutral-900 leading-heading tracking-tight text-balance">
             Curated Moments Designed to Restore
@@ -50,12 +50,15 @@ export function ExperiencesSection() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          {experiences.map((item) => {
+          {experiences.map((item, index) => {
             const IconComponent = item.icon;
             return (
               <div
                 key={item.title}
-                className="group relative rounded-3xl overflow-hidden bg-neutral-900 text-white shadow-md hover:shadow-xl transition-all duration-300 flex flex-col justify-end aspect-[3/4]"
+                data-aos="fade-up"
+                data-aos-duration="700"
+                data-aos-delay={index * 100}
+                className="group relative rounded-3xl overflow-hidden bg-neutral-900 text-white shadow-md hover:shadow-xl hover:-translate-y-1.5 transition-all duration-300 flex flex-col justify-end aspect-[3/4]"
               >
                 {/* Background Image */}
                 <Image

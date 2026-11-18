@@ -6,6 +6,7 @@ import { routing } from "@/i18n/routing";
 import { Navbar } from "@/components/navigation/navbar";
 import { MapSection } from "@/components/sections/map-section";
 import { Footer } from "@/components/layout/footer";
+import { AOSInit } from "@/components/ui/aos-init";
 import "@/styles/globals.css";
 
 type Props = {
@@ -76,6 +77,7 @@ export default async function LocaleLayout({ children, params: { locale } }: Pro
       </head>
       <body className="min-h-screen flex flex-col font-sans bg-white text-neutral-800 antialiased selection:bg-shoreline-200 selection:text-neutral-900">
         <NextIntlClientProvider messages={messages}>
+          <AOSInit />
           <Navbar />
           <div className="flex-1 flex flex-col">{children}</div>
           <MapSection />

@@ -93,8 +93,11 @@ export function GalleryGrid() {
         {filteredImages.map((img, index) => (
           <div
             key={img.id}
+            data-aos="fade-up"
+            data-aos-duration="700"
+            data-aos-delay={(index % 3) * 100}
             onClick={() => openLightbox(index)}
-            className="group relative aspect-[4/3] rounded-3xl overflow-hidden bg-neutral-100 shadow-xs hover:shadow-lg transition-all duration-300 cursor-pointer"
+            className="group relative aspect-[4/3] rounded-3xl overflow-hidden bg-neutral-100 shadow-xs hover:shadow-lg hover:-translate-y-1.5 transition-all duration-300 cursor-pointer"
           >
             <Image
               src={img.src}

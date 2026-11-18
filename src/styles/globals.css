@@ -115,4 +115,9 @@
       rgba(17, 17, 17, 0.75) 100%
     );
   }
+
+  /* Smooth Luxury Easing for AOS Scroll Animations */
+  [data-aos] {
+    transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1) !important;
+  }
 }
